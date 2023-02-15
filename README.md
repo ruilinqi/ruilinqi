@@ -1,9 +1,7 @@
-### Hi there 👋
-
-👋 Hi, I’m @ruilinqi
-👀 I’m a fullstack Web Developer
-👩‍💻 I’m looking to collaborate on creative and opensource projects
-📫 My email: ruilinqi7@gmail.com
+- 👋 Hi, I’m @ruilinqi
+- 👀 I’m a fullstack Web Developer
+- 👩‍💻 I’m looking to collaborate on creative and opensource projects
+- 📫 My email: ruilinqi7@gmail.com
 
 <!--
 **ruilinqi/ruilinqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
