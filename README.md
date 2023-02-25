@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruilinqi
+- 👋 Hi there, I’m @ruilinqi
 - 👀 I’m a Fullstack Web Developer
 - 👩‍💻 I’m looking to collaborate on creative and opensource projects
 - 📫 Email me to connect: ruilinqi7@gmail.com
