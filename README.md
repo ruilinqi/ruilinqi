@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Raylene Qi</h1>
-<h3 align="center">A passionate Fullstack Web Developer in Toronto</h3>
+<h1 align="center">Hi, I'm Raylene 👋</h1>
+<h3 align="center">A Fullstack Web Developer</h3>
 
 - 👯 I’m looking to collaborate on **creative and opensource projects**
 
