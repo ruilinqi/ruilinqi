@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **creative and opensource projects**
 
-- 👨‍💻 Check out my website at [ruilinq.com](https://ruilinq.com/)
+- 👩‍💻 Check out my website at [ruilinq.com](https://ruilinq.com/)
 
 - 📫 How to reach me **ruilinqi7@gmail.com**
 
