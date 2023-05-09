@@ -7,9 +7,9 @@
 - 👩‍💻 Check out my website at [ruilinq.com](https://ruilinq.com/)
 
 - 📫 How to reach me **ruilinqi7@gmail.com**
-
+<!--
 - 📄 View my [Resume](https://www.linkedin.com/in/ruilinqi/overlay/1635517853398/single-media-viewer/?profileId=ACoAAC-wS-0Bbf5tUeO-QnmoX5qzns9kT3JIbJg)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruilinqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruilinqi" height="30" width="40" /></a>
